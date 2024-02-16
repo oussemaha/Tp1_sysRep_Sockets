@@ -2,7 +2,7 @@
 
 pour tester l'exécution en local il faut lancer le serveur au début et choisir un port, puis lancer le client et mettre comme addresse 127.0.0.1 ou localhost et le même port 
 
-pour tester l'exécution sur deux machines : 
+pour tester l'exécution sur deux machines : \n
   sur le même réseau local LAN :
       lancer le serveur et choisir un port, lancer le client  et mettre comme addresse l'addresse de la machine qui tourne le programme du serveur dans le LAN et choisr le même port
 
