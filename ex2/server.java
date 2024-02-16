@@ -36,7 +36,7 @@ class server {
                 System.exit(-1);
             }
 
-            output.writeObject(new String("bien recu"));
+            output.writeObject(new String("la voiture a été bine rempli "));
             serverSocket.close();
         } catch (Exception e) {
             System.err.println("Erreur : " + e);
