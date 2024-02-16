@@ -8,7 +8,7 @@ public class SocketServeur {
     public static void main(String argv[]) {
         int port = 0;
         Scanner keyb = new Scanner(System.in);
-        // demander le port d'écout
+        // demander le port d'écoute
         System.out.print("Port d'écoute : ");
         try {
             port = keyb.nextInt();
